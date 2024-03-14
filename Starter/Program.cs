@@ -1,4 +1,6 @@
+using System.Globalization;
 using System;
+CultureInfo.CurrentCulture = new CultureInfo("en-US");
 
 // ourAnimals array will store the following: 
 string animalSpecies = "";
